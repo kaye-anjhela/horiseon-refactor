@@ -10,7 +10,7 @@ This code should improve accessibility on the Horiseon site and boost SEO optimi
 
 ![Screenshot of Horiseon Landing Page](https://user-images.githubusercontent.com/116095543/197896684-453cfd35-45fd-4b7d-baaf-d04ebad93fec.png)
 
-Link to site -> 
+Link to site -> https://kaye-anjhela.github.io/horiseon-refactor/
 
 # Challenges 
 
